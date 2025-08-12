@@ -45,7 +45,7 @@ uv clone <repo-url>
 2. Run the script
 
 ```bash
-uv run logistic_regression.py
+uv run main.py
 ```
 
 3. Example output
